@@ -2,7 +2,7 @@
 
 ## Team members
 - [Pablo Cahuich Salazar]
-- [Enrique Chim Mex](https://github.com/Jarotho/HCI-Project/tree/First-delivery/Team-members/EnriqueChim)
+- [Enrique Chim Mex](https://github.com/Jarotho/HCI-Project/tree/First-delivery/Team-members/Enrique_Chim)
 - [Wilbert Manzur Tello](https://github.com/Jarotho/HCI-Project/tree/First-delivery/Team-members/Wilbert_Manzur)
 - [Jaroth Moo Pan](https://github.com/Jarotho/HCI-Project/tree/First-delivery/Team-members/Jaroth_Moo)
 - [Daniel Peraza](https://github.com/Jarotho/HCI-Project/tree/First-delivery/Team-members/Daniel_Peraza)
