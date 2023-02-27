@@ -1,6 +1,6 @@
 # HCI-Project
 
-## :closed_book: Team members
+## Team members
 •Pablo Cahuich Salazar
 •Enrique Chim Mex
 •Wilbert Manzur Tello
