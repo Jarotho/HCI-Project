@@ -1,12 +1,12 @@
 # HCI-Project
 
 ## Team members
-• [:Pablo Cahuich Salazar]
-• [:Enrique Chim Mex]
-• [:Wilbert Manzur Tello]
-• [:Jaroth Moo Pan](https://github.com/Jarotho/HCI-Project/tree/First-delivery/Team-members/Jaroth_Moo)
-• [:Daniel Peraza]
-• [:Indra Tzab]
+-[:Pablo Cahuich Salazar]
+-[:Enrique Chim Mex]
+-[:Wilbert Manzur Tello]
+-[:Jaroth Moo Pan](https://github.com/Jarotho/HCI-Project/tree/First-delivery/Team-members/Jaroth_Moo)
+-[:Daniel Peraza]
+-[:Indra Tzab]
 
 ## Objective
 
