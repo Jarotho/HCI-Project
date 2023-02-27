@@ -9,4 +9,4 @@
   * [Daniel De Jesus Peraza Batun]()
   * [Pedro Pablo Cauich Salazar]()
   * [Indra Michelle Tzab Chan]()
-  * [Wilbert Jose Manzur Tello]()
+  * [Wilbert Jose Manzur Tello](https://github.com/Wilbertmt2)
