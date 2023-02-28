@@ -31,7 +31,7 @@ Our main users are primary school teachers who work or have contact with student
 
 ### Objetives
 
-Our goal is to provide teachers with a technological tool that provides support, training and information to work optimally with children with ADHD.
+Our main objective is to provide teachers with a technological tool that provides support, training and information to work optimally with children with ADHD.
 
 ### Feasibility
 ### Interview
