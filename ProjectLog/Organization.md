@@ -15,3 +15,7 @@
 | Interview                                  | Everyone      | February 13/23       |   February 20/23            |✔️ DONE
 | Summary of the interview                   | Everyone      | February 20/23       |   February 24/23            |✔️ DONE
 | Third meeting                              | Everyone      | February 27/23       |   February 27/23            |✔️ DONE
+
+## Metric
+
+#### As a team we decided to take the shares with 100%, and these are distributed in the following document, [here](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a20216391_alumnos_uady_mx/EQLSU7sMzfBFi5cR6BsUj4sBiY9tLT9qNfsHrzvoAFKWmw?e=FMpk0m&nav=MTRfezc5QUM0RDZCLTdFMDMtMkVFMC0yRjkxLTA1Mjg4QzdFM0QwRH1fezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0) 👈. 
