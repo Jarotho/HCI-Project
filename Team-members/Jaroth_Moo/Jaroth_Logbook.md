@@ -9,5 +9,8 @@
 | Idea selection and deeper definition                   | January 23/January 28| Project definition   |
 | Activity on the Mirro platform                         | January 30 | Social relevance, innovation and feasibility            |
 | First meeting                                          | February 07| Advances                                                |
+| Researching                                        | February 07| information about habilities on ADHD                                               |
 | Second meeting                                         | February 13| Advances                                                |
-| Interview analysis                                     | February 13| Analysis and summary of the results of the interview    |
+| Interview draft                                    | February 17| Creation of the draft of the interview   |
+| Personas                                    | February 25| Creation of personas                                                |
+| scenaries                                      | February 26| Creation of the escenarios for the personas                                             |
