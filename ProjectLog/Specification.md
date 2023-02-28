@@ -21,7 +21,7 @@
 ### Feasibility
 ### Interview
 
-The interview with our support staff.
+***The interview with our support staff.***
 
 - ¿Qué experiencia tienes trabajando con niños con TDAH? 
 
@@ -70,6 +70,15 @@ The interview with our support staff.
 | **7**    | Con apoyo del equipo de USAER y por propia investigación he llevado a cabo actividades en las cuáles las instrucciones sean breves y claras, además de que sean organizadas.                       |
 | **8**    | Modificando los temas que se abordan en las sesiones e incluyendo actividades donde puedan participar con otras personas                                                            |
 
+***Analysis and summary of the interviews.***
+
+After having analyzed the different responses obtained, it was possible to observe that the interviewed teachers have little or no experience working with children with ADHD. In the same way, it is important to mention that the vast majority of those interviewed answered that in the school where they work there is a unit of support services for regular education (USAER), which, although they try to provide support to children with ADHD in the learning process, they do not do it properly, according to some teachers.
+
+It is essential to comment that the answers obtained reflect the commitment and dedication on the part of teachers to adapt teaching methods and activities to the needs of students with ADHD, since most teachers are concerned with using dynamic activities and diverse to engage students and make learning more meaningful and engaging; it was possible to observe a clear preference for kinesthetic activities that allow students to learn through practice and action, as well as for activities that promote socialization, movement and playful materials, in addition, the importance of offering short and allow students to choose the way to do them, to encourage their autonomy and motivation.
+
+The answers reflect a clear awareness of the importance of collaboration and close and effective communication between parents, specialists and teachers to achieve the academic and emotional success of students with ADHD, where the need to inform parents about the characteristics and limitations of the disorder and offer specific suggestions and guidelines for work at home.
+
+Some teachers have found benefits in assigning active roles to students, keeping them busy and moving them around. Others have implemented team building strategies and social-emotional activities to encourage participation and positive interaction with their peers. In addition, the importance of creating a comfortable and distraction-free environment in the classroom is highlighted, and of constantly monitoring the attention of students with ADHD to help them concentrate. In general, the importance of being creative and flexible in the implementation of strategies that adapt to the individual needs of students with ADHD is evident.
 
 
 ### Desing Process
