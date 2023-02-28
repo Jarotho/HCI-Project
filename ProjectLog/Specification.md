@@ -21,6 +21,10 @@ Kids with ADHD can also have a hard time organizing and planning, which can make
 It is important that teachers and school staff are trained to identify children with ADHD and provide them with the support and attention necessary to help them succeed in school. This may include classroom modifications such as seating the child in a less distracting location, using checklists and visual reminders, and providing extra time to complete homework. Additionally, psychological and educational support through therapy and social skills training may be beneficial in helping children with ADHD manage their symptoms and improve their academic performance.
 
 ### Problematic
+
+Often, teachers may be unaware of the optimal activities for teaching children with ADHD. This is because teacher training in this field may be limited, and many educators may not be aware of the latest research and strategies to address the needs of these students. As a result, it can be difficult for teachers to tailor their teaching methods to the individual needs of children with ADHD and provide them with appropriate support in the classroom.
+In a few words, the problem is the lack of information and knowledge of how to work with students with ADHD so that they can perform optimally.
+
 ### Users
 ### Objetives
 ### Feasibility
