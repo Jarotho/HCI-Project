@@ -15,10 +15,10 @@
 ## Project Definition
 
 ### Description
-### :small_orange_diamond: Problematic
-### :small_orange_diamond: Users
-### :small_orange_diamond: Objetives
-### :small_orange_diamond: Feasibility
+### Problematic
+### Users
+### Objetives
+### Feasibility
 ### Interview
 
 The interview with our support staff.
@@ -72,4 +72,4 @@ The interview with our support staff.
 
 
 
-### :small_orange_diamond: Desing Process
+### Desing Process
