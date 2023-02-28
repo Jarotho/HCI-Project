@@ -15,6 +15,11 @@
 ## Project Definition
 
 ### Description
+
+ADHD (Attention Deficit Hyperactivity Disorder) can be a significant problem in children's school education. Children with ADHD often have difficulty paying attention, concentrating, and controlling their behavior, which can affect their ability to follow directions, complete assignments, and participate effectively in class. This can lead to poor academic performance, social rejection, and self-esteem issues.
+Kids with ADHD can also have a hard time organizing and planning, which can make them feel overwhelmed and stressed at school. They may have trouble managing time, lose things, and have difficulty completing long-term projects.
+It is important that teachers and school staff are trained to identify children with ADHD and provide them with the support and attention necessary to help them succeed in school. This may include classroom modifications such as seating the child in a less distracting location, using checklists and visual reminders, and providing extra time to complete homework. Additionally, psychological and educational support through therapy and social skills training may be beneficial in helping children with ADHD manage their symptoms and improve their academic performance.
+
 ### Problematic
 ### Users
 ### Objetives
