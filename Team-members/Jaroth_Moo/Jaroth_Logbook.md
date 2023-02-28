@@ -1,6 +1,6 @@
 # Project
 
-[:Interview draft](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a17001639_alumnos_uady_mx/ES1aqlif5VZNuFUMMfz4HJYB0aDMRV5jPS3KEYEDgS2fAQ?e=95N5sa)
+[Interview draft](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a17001639_alumnos_uady_mx/ES1aqlif5VZNuFUMMfz4HJYB0aDMRV5jPS3KEYEDgS2fAQ?e=95N5sa)
 
 # Logbook
 
