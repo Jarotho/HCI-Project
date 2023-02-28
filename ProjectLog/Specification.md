@@ -26,7 +26,13 @@ Often, teachers may be unaware of the optimal activities for teaching children w
 In a few words, the problem is the lack of information and knowledge of how to work with students with ADHD so that they can perform optimally.
 
 ### Users
+
+Our main users are primary school teachers who work or have contact with students diagnosed with ADHD and do not have much experience in this area. However, the tool we plan to develop may also be useful for teachers who already have some level of experience with children with ADHD.
+
 ### Objetives
+
+Our goal is to provide teachers with a technological tool that provides support, training and information to work optimally with children with ADHD.
+
 ### Feasibility
 ### Interview
 
