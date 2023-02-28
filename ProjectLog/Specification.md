@@ -68,8 +68,19 @@
 | **5**    | Trato de poner actividades afines a los intereses de estos alumnos, entender sus motivaciones y siempre tratar de no segregarlos. Siempre propongo el trabajo por equipos y el uso de monitores que sirvan de andamiaje para esta clase de alumnos.                                             |
 | **6**    | Tiempos cortos de atención. Organizar material previamente. Repetir constantemente las indicaciones. Marcar límites de tiempo. Recordar las normas de cortesía constantemente.                                                                               |
 | **7**    | Con apoyo del equipo de USAER y por propia investigación he llevado a cabo actividades en las cuáles las instrucciones sean breves y claras, además de que sean organizadas.                       |
-| **8**    | Modificando los temas que se abordan en las sesiones e incluyendo actividades donde puedan participar con otras personas                                                            |
+| **8**    | Modificando los temas que se abordan en las sesiones e incluyendo actividades donde puedan participar con otras personas|
 
+- ¿Qué tipos de actividades y juegos encuentras efectivos para mantener la atención de los niños con TDAH? 
+
+| **1**    | Actividades kinestesicas en dónde al alumno aprenda por medio de la práctica y acción.|
+| :----:   | :--------------------------------------------------------------------------------------------------|
+| **2**    |Simón es un juego que me gusta mucho y a ellos igual, dibujos en donde hay objetos perdidos para identificar etc|            
+| **3**    | Actividades donde tengan que socializar, moverse, cambiar de lugar, buscar en Internet. |
+| **4**    |De atención, de desenvolvimiento con sus pares, de respetar normas.                                                                                             |
+| **5**    | Las actividades que incluyan el uso de las TICS, uso de material quinestesico que los mantiene entretenidos y juegos físicos. |
+| **6**    | Memorama Juegos de mesa Actividades cortas y de manipulación. |
+| **7**    | Rompecabezas, buscar palabras o imágenes, sopas de letras, colorear de acuerdo con códigos de números.  |
+| **8**    | Tareas cortas y en ocasiones que los alumnos elijan la manera de realizarlos. Motivandoles y conocer los logros.|
 ***Analysis and summary of the interviews.***
 
 After having analyzed the different responses obtained, it was possible to observe that the interviewed teachers have little or no experience working with children with ADHD. In the same way, it is important to mention that the vast majority of those interviewed answered that in the school where they work there is a unit of support services for regular education (USAER), which, although they try to provide support to children with ADHD in the learning process, they do not do it properly, according to some teachers.
