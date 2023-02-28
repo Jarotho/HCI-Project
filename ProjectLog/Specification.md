@@ -3,7 +3,7 @@
 ## :page_facing_up: Contents
 
   - [:point_right: Project definition](#Project-Definition)
-    - [:point_right: Description](#Description)
+    - [:point_right: Description](#:small_orange_diamond:Description)
     - [:point_right: Problematic](#Problematic)
     - [:point_right: Users](#Users)
     - [:point_right: Objetives](#Objetives)
