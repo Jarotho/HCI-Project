@@ -199,7 +199,7 @@
 | **5**    |Efectivamente, siempre el trato que el docente da a estos alumnos marcará la pauta del éxito con estos educandos.|
 | **6**    |Si, instrucciones concretas y claras. |
 | **7**    | El equipo de USAER ha dado talleres para darnos estrategias para saber cómo son las instrucciones que se les debe dar a los alumnos con TDAH. |
-| **8**    Si.| 
+| **8**   | Si.| 
 
 
 ***Analysis and summary of the interviews.***
