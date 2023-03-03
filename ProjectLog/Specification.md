@@ -74,6 +74,36 @@ The main difference between these applications and our idea to develop is that b
 
 ### Feasibility
 
+The arguments to guarantee the development of the project will be successful:
+ * The objectives of the project are clearly defined.
+ * The team has research and team resources to develop the project.
+ * Effective team communication for the development of the project.
+ * Monitoring and proof of project progress.
+ * Adaptability to project changes and requirements as appropriate.
+
+
+Team strengths and weaknesses:
+
+Strengths:
+ * Desire to support teachers and children with ADHD to improve their learning quality.
+ * Skills in software development, design and research.
+ * The team is collaborative and communicative.
+
+
+Weaknesses:
+ * Lack of experience in managing a large -scale project.
+ * Limited resources in question of time and budget.
+ * Inappropriate training or knowledge in certain areas, such as design of specific products or areas of ADHD.
+
+Challenges from the point of view of HCI/product:
+
+ * Ensure that the product is easy to use and is accessible to children with ADHD.
+ * Data compilation could affect the privacy of certain users.
+ * The ability to attention to children with ADHD, they often have difficulty focusing and maintaining their attention, so it is important to design a product    that captures their attention and maintains their interest.
+ * Product customization to meet the specific needs of each child.
+
+
+
 ### Interview
 
 ***The interview with our support staff.***
