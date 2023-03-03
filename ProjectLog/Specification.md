@@ -54,11 +54,11 @@ Our main objective is to provide teachers with a technological tool that provide
 
 First it is necessary to mention the applications similar to our project:
 
-1. ADHD TRAINER
+**1. ADHD TRAINER**
 
   For students from 4 to 12 years old, this app for devices with the Android operating system aims to improve the cognitive functions affected in attention deficit hyperactivity disorder (ADHD): attention, perceptual reasoning, inhibition, calculation and fluency verbal. It consists of a daily cognitive training of 10 minutes, by carrying out tasks and various cognitive exercises. The cognitive areas on which it acts are: attention, memory, calculation, reasoning and visuomotor coordination.
 
-2. ALEX LEARNS TO ORDER
+**2. ALEX LEARNS TO ORDER**
   
   It has been designed to work on the attention and concentration capacity of children, it is of great help for students with attention disorder pathologies with or    without hyperactivity (ADD or ADHD). In addition, it encourages the student to develop logic and to classify objects in the categories that correspond to them, as well as to work on fine motor skills. It offers four speed levels to adapt to the age of the student and their level of skill with their hands.
 
