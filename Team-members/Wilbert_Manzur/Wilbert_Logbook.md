@@ -13,4 +13,4 @@
 | **6**  | Interview analysis                                             | February 13   | February 20  | Analysis and summary of the results of the interview|
 | **7**  | Third meeting                                              | February 27   | February 27  | Advances                                         |
 | **8**  | DCU                                               | February 25   | February 26  | Description of the DCU process         |
-| **9**  | First delivery                                             | February 27   | February 27  | Definition and writing of the objective, users, elements of innovation, motivation and relevance of the project |
+| **9**  | First delivery                                             | February 27   | February 27  | The objective, users, elements of innovation, motivation and relevance of the project were drafted |
