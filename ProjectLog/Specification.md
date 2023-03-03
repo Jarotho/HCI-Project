@@ -5,8 +5,11 @@
   - [:point_right: Project definition](#Project-Definition)
     - [:point_right: Description](#Description)
     - [:point_right: Problematic](#Problematic)
+    - [:point_right: Description](#Motivation)
+    - [:point_right: Description](#Relevance)
     - [:point_right: Users](#Users)
     - [:point_right: Objetives](#Objetives)
+    - [:point_right: Description](#Innovation)
     - [:point_right: Feasibility](#Feasibility)
     - [:point_right: Interview](#Interview)
     - [:point_right: Desing Process](#Desing-Process)
@@ -23,6 +26,22 @@ ADHD (Attention Deficit Hyperactivity Disorder) is a major problem in children's
 Often, teachers may be unaware of the optimal activities for teaching children with ADHD. This is because teacher training in this field may be limited, and many educators may not be aware of the latest research and strategies to address the needs of these students. As a result, it can be difficult for teachers to tailor their teaching methods to the individual needs of children with ADHD and provide them with appropriate support in the classroom.
 In a few words, the problem is the lack of information and knowledge of how to work with students with ADHD so that they can perform optimally.
 
+### Motivation
+
+According to specialists, Attention Deficit Hyperactivity Disorder (ADHD) affects one in 20 Yucatecan children. From experience close to us, we know that those who suffer from this disorder have difficulties maintaining attention, as well as controlling their impulsive behavior, and this in turn can cause serious academic, emotional and social problems.
+
+It is also essential to mention that, often, teachers may not know about the optimal activities for teaching children with ADHD. This is because teacher training in this field may be limited, and many educators may not be aware of the latest research and strategies to address the needs of these students. As a result, it can be difficult for teachers to tailor their teaching methods to the individual needs of children with ADHD and provide them with appropriate support in the classroom.
+
+### Relevance
+
+Here are some reasons why a proper education can be very important for children with ADHD:
+
+1. Helps them learn life skills: Education can teach kids with ADHD valuable skills like organization, time management, and self-discipline. These skills are crucial for everyday life and can help kids with ADHD succeed both in school and as adults.
+2. Provide a structured environment: Children with ADHD may have a hard time concentrating and staying focused due to a lack of structure. The right education can provide a structured and organized environment that helps them stay focused and focused on schoolwork.
+3. Helps children develop social skills: ADHD can affect children's social skills, which can make it difficult to build positive relationships with their peers. The right education can provide opportunities for children with ADHD to learn social skills and improve their ability to interact with others.
+
+***In conclusion, proper education is essential to help children with ADHD reach their full potential. Similarly, it can provide a structured and organized environment that allows them to focus and learn valuable life skills, so it is essential that teachers have knowledge of the right tools to effectively help students.***
+
 ### Users
 
 Our main users are primary school teachers who work or have contact with students diagnosed with ADHD and do not have much experience in this area. However, the tool we plan to develop may also be useful for teachers who already have some level of experience with children with ADHD.
@@ -32,6 +51,29 @@ Our main users are primary school teachers who work or have contact with student
 Our main objective is to provide teachers with a technological tool that provides support, training and information to work optimally with children with ADHD.
 
 ### Feasibility
+
+### Innovation
+
+First it is necessary to mention the applications similar to our project:
+
+1. ADHD TRAINER
+
+For students from 4 to 12 years old, this app for devices with the Android operating system aims to improve the cognitive functions affected in attention deficit hyperactivity disorder (ADHD): attention, perceptual reasoning, inhibition, calculation and fluency verbal. It consists of a daily cognitive training of 10 minutes, by carrying out tasks and various cognitive exercises. The cognitive areas on which it acts are: attention, memory, calculation, reasoning and visuomotor coordination.
+
+2. ALEX LEARNS TO ORDER
+
+It has been designed to work on the attention and concentration capacity of children, it is of great help for students with attention disorder pathologies with or without hyperactivity (ADD or ADHD). In addition, it encourages the student to develop logic and to classify objects in the categories that correspond to them, as well as to work on fine motor skills. It offers four speed levels to adapt to the age of the student and their level of skill with their hands.
+
+***Differences***
+
+The main difference between these applications and our idea to develop is that both "ADHD trainer" and "alex learn to order" have the child with ADHD as the main user. For our part, the priority is the teacher, since by providing information related to this disorder, as well as useful information for creating activities, we also indirectly help students with ADHD.
+
+***Innovation elements***
+
+*The program allows users to consult useful information for the creation of activities appropriate to the needs of children with this disease.
+*The program provides information on the students with whom you are working personally.
+*The program gives the user control of the students.
+
 ### Interview
 
 ***The interview with our support staff.***
