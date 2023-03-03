@@ -50,8 +50,6 @@ Our main users are primary school teachers who work or have contact with student
 
 Our main objective is to provide teachers with a technological tool that provides support, training and information to work optimally with children with ADHD.
 
-### Feasibility
-
 ### Innovation
 
 First it is necessary to mention the applications similar to our project:
@@ -73,6 +71,8 @@ The main difference between these applications and our idea to develop is that b
 *The program allows users to consult useful information for the creation of activities appropriate to the needs of children with this disease.
 *The program provides information on the students with whom you are working personally.
 *The program gives the user control of the students.
+
+### Feasibility
 
 ### Interview
 
