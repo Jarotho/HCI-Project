@@ -56,11 +56,11 @@ First it is necessary to mention the applications similar to our project:
 
 1. ADHD TRAINER
 
-For students from 4 to 12 years old, this app for devices with the Android operating system aims to improve the cognitive functions affected in attention deficit hyperactivity disorder (ADHD): attention, perceptual reasoning, inhibition, calculation and fluency verbal. It consists of a daily cognitive training of 10 minutes, by carrying out tasks and various cognitive exercises. The cognitive areas on which it acts are: attention, memory, calculation, reasoning and visuomotor coordination.
+  For students from 4 to 12 years old, this app for devices with the Android operating system aims to improve the cognitive functions affected in attention deficit hyperactivity disorder (ADHD): attention, perceptual reasoning, inhibition, calculation and fluency verbal. It consists of a daily cognitive training of 10 minutes, by carrying out tasks and various cognitive exercises. The cognitive areas on which it acts are: attention, memory, calculation, reasoning and visuomotor coordination.
 
 2. ALEX LEARNS TO ORDER
-
-It has been designed to work on the attention and concentration capacity of children, it is of great help for students with attention disorder pathologies with or without hyperactivity (ADD or ADHD). In addition, it encourages the student to develop logic and to classify objects in the categories that correspond to them, as well as to work on fine motor skills. It offers four speed levels to adapt to the age of the student and their level of skill with their hands.
+  
+  It has been designed to work on the attention and concentration capacity of children, it is of great help for students with attention disorder pathologies with or    without hyperactivity (ADD or ADHD). In addition, it encourages the student to develop logic and to classify objects in the categories that correspond to them, as well as to work on fine motor skills. It offers four speed levels to adapt to the age of the student and their level of skill with their hands.
 
 ***Differences***
 
@@ -68,9 +68,9 @@ The main difference between these applications and our idea to develop is that b
 
 ***Innovation elements***
 
-*The program allows users to consult useful information for the creation of activities appropriate to the needs of children with this disease.
-*The program provides information on the students with whom you are working personally.
-*The program gives the user control of the students.
+1. The program allows users to consult useful information for the creation of activities appropriate to the needs of children with this disease.
+2. The program provides information on the students with whom you are working personally.
+3. The program gives the user control of the students.
 
 ### Feasibility
 
