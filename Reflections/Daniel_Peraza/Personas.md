@@ -1,0 +1,9 @@
+# Personas
+
+To understand the needs of teachers who have students with ADHD, it was critical to understand the characteristics of ADHD, as well as understanding the specific needs of students with ADHD. Similarly, it was very important to listen to the teachers, as it allowed us to understand their experiences and challenges in the classroom when teaching students with ADHD.
+
+Regarding the "Needs" section in the people format, it seems to me a fundamental section because it allowed me and my team to better understand the needs and expectations of our potential users (teachers). Firstly, it helped us to identify the functional and emotional needs of the users, which will allow us to make the design more user-centric and less focused on the features and functionality of our product. Likewise, it will allow us to create a solution that we think users will appreciate.
+
+The method my team resorted to was surveys, which were carried out on the Google forms platform. The survey was prepared by certain members of the team and subsequently sent to the persons of interest. Data aggregation and analysis methods are used to extract useful information. Cluster analysis can be very useful, since this method allows data to be grouped into homogeneous groups based on similar characteristics, so it would help us to identify patterns in the data and to identify groups of users or products that can be treated differently. similar.
+
+The persona format in software designed to help teachers teach children with ADHD can have a huge impact on the students' learning experience. The software can be tailored to the learning needs of each student with ADHD, include tools to help them focus and sustain attention, and create a more comfortable and engaged learning environment for students. Additionally, the software can include custom avatars to represent different learning styles and help students identify their strengths and weaknesses.
