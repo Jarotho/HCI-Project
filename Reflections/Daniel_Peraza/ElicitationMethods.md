@@ -1,1 +1,7 @@
+# Elicitation Methods
 
+Elicitation techniques are a variety of methods used to collect detailed and in-depth information about the experience and opinions of participants in a social research study. These techniques include in-depth interviews, surveys, focus groups, diaries, and observation, among others.
+
+My team chose the survey as the elicitation method, as it is relatively easy and quick to administer, making it ideal for gathering valuable information in the short amount of time we had available. For the survey, a member of the team was in charge of asking the questions, then we all discussed whether we agreed with the questions asked and modifications and improvements were made in the wording of the questions. Subsequently, each member of the team sent the survey to 3 subjects who had the profile of the people we were interested in for our project. Once with the results of the survey, we proceeded to analyze the different answers that we obtained, analysis with which we obtained the first functional and non-functional requirements of the system. Having applied it, we realized that one of the main disadvantages of the survey is that it may not provide a complete and in-depth understanding of the experience or perspective of the participants.
+
+To conclude, I think we could have supplemented our elicitation process with other methods (in-depth interviews, observation), as surveys may be less suitable for exploring sensitive or emotional topics, as participants may not feel comfortable sharing information. staff in a multiple response format.
