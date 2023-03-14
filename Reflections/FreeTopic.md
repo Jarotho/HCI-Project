@@ -1,5 +1,5 @@
 # User Requirements
-
+User requirements are a crucial aspect when working with HCI. Adding them properly is one of the most important parts of any project because meeting all of the user's needs is one of the most significant challenges. A project should strive to encompass all of the user's interface and functionality requirements. It's helpful to involve the user in the process of creating these requirements, not only by asking questions and conducting research but also by showing them what has been done, explaining the process, and helping them understand the requirements. A good requirement engineering process is also useful for generating quality requirements that can meet the user's needs. The significance of user requirements in HCI lies in the fact that HCI is an area that focuses entirely on how the user will interact with technology. Through HCI, we can work to meet or satisfy the user's needs. In our project, we have added several requirements, which we have established through research and various techniques to solve the problem we are trying to address. HCI and user requirements are closely related.
 
 ### References
 
