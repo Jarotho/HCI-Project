@@ -10,4 +10,4 @@ Lastly, it's important to discuss the advantages and disadvantages of ubiquitous
 ### References
 
 - Y. (2021, November 18). What is Ubiquitous Computing? YoungWonks.https://www.youngwonks.com/blog/What-is-Ubiquitous-Computing
-- Gurdin, B. (2014). What is the relationship between Ubiquitous Computing and Human Computer Interaction? Quora. https://www.quora.com/What-is-the-relationship-between-Ubiquitous-Computing-and-Human-Computer-Interaction/answer/Boaz-Gurdin
+- Gurdin, B. (2014). What is the relationship between Ubiquitous Computing and Human Computer Interaction? Quora.https://www.quora.com/What-is-the-relationship-between-Ubiquitous-Computing-and-Human-Computer-Interaction/answer/Boaz-Gurdin
