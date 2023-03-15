@@ -1,12 +1,18 @@
-#Ergonomics
+#Personas
 
-Ergonomics is the scientific study of designing and arranging things people use so that the people and things interact most efficiently and safely. Is about studying the conditions of their work environment for the objective of creating a better harmony between humans and their work environment.  Human-Computer Interaction (HCI) is the study of how people interact with technology, HCI study the psychology related to a certain topic, then design a product based on that study with techniques and methods.
- 
-Ergonomics has been adapted into the HCI field to make technology more user-friendly, comfortable, and safe for users. One way that ergonomics has been adapted into HCI is through the design of hardware such as keyboards, mice, and monitors. These devices are designed to be ergonomic, meaning that they are designed to fit the natural movement and posture of the human body. For example, ergonomic keyboards are designed with a curved shape to fit the natural shape of the hands and wrists, while ergonomic mice are designed to fit the natural curve of the hand.
- 
-The ergonomics are not only available in the physical area. There is also this way that ergonomics has been adapted into HCI, is through the design of software interfaces. HCI researchers and designers first of all study the cognitive area when designing interfaces. For example, designers may use a larger font size and contrasting colors to make interfaces more accessible for users with visual impairments.
- 
-Thinking in how the work environment affects our users can be very useful, can even help to create Personas.
+Creating Personas involves gathering information about the target audience and crafting fictional characters that represent typical users. To create effective Personas, it's important to gather a range of data about the target audience, including demographic information, behavioral patterns, motivations, etc. Every project has different Personas, the team of the project had to do an analysis of this information to conclude what characteristics of their users are really relevant. 
 
-Finally, this method has a lot  pros, like giving a value added for the project just for considering more characteristics of the user. But the counter part of this, is that the researchers need more time and money to invest in recognizing these characteristics.
- 
+In our project we decided to use experience and education to create our Personas. Experience refers to the knowledge, skills, and attitudes that a person has developed over time, and it can impact how users interact with our product. Education, on the other hand, refers to the formal learning and qualifications that a person has acquired.
+
+Because we are doing a project focused on the professors, we decided that our Personas will have a certain level of education in the docent area. We know that our users don’t have easy access to the technology, also that our users never had an approach to technology throughout their lives. So, we concluded that we had to consider the experience with the technology. 
+
+The data collection was through interviews. Once we had the information, the analysis phase was comparing the results with veridical information. We investigated the approach to the technology based on the age range. Also, the information about how our users did not apply their education techniques using any technology (systems that give their ADHD information or systems that can save information of the kids) tell us that the experience with the technology is one of the key aspects. 
+
+Finally, using personas can help ensure that our product meets the needs of the target audience and achieves a better effective product. By having a clear understanding of the target audience, our team can take better decisions using the user-centered design. In conclusion, we can create a product that are more aligned with their needs and more likely to be successful. 
+
+Sources: 
+https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/personas
+
+Mulder, S., & Yaar, Z. (2006). The user is always right: A practical guide to creating and using personas for the web. New Riders.
+
+Engaging Personas - Lene Nielsen 
