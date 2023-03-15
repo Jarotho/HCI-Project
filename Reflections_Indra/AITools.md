@@ -1,4 +1,4 @@
-## AITools
+# AITools
 In recent years, artificial intelligence (AI) has shown rapid progress, which has led to the development of language processing models such as ChatGPT,
 powered by OpenAI. ChatGPT is a powerful language model, trained on massive amounts of data, that has the potential to further 
 improve the way we interact with technology. Furthermore, ChatGPT has been specifically trained to interact with users in a truly conversational way.
@@ -16,7 +16,12 @@ to achieve the desired result or create workarounds.
 Usability attributes such as ease of use, accessibility, and learnability can be implemented collaboratively and with the guidance of a developer to verify 
 that the user interface design usability meets the needs of users as well as the requirements of the developers.
 
-AI tools can be useful for producing UI content quickly and efficiently, however they do not have the design skills necessary
+AI tools can be useful for producing UI content quickly and efficiently, however they don't have the design skills necessary
 to produce a high-quality UI. Therefore, the role of UX may become even more focused on the user experience and the visual design of the product. 
 They would be expected to master new skills and information on practical design, quality,
 and usability. In this way, there could be a greater focus on creativity, innovation and exploration in the design process.
+
+## References: 
+* Mattas, P. S. ChatGPT: A Study of AI Language Processing and its Implications. Journal homepage: www. ijrpr. com ISSN, 2582, 7421.
+* Tabone, W., & de Winter, J. (2023). Using ChatGPT for Human–Computer Interaction Research: A Primer.
+* Aljanabi, M., Ghazi, M., Ali, A. H., & Abed, S. A. (2023). ChatGpt: Open Possibilities. Iraqi Journal For Computer Science and Mathematics, 4(1), 62-64.
