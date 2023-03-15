@@ -7,7 +7,7 @@ The collection method to be able to write these elements were the questionnaires
 
 In the project, the creation of personas helps us to have a better understanding of the user's needs to improve the design that the product will have. For example, using personas gives us information not only about the needs of teachers, but also the needs, wants, and limitations of children with ADHD. By creating a person with ADHD expertise to represent an end user of the software and tailoring individual activities based on the child's preferences and interests; It would impact our final decisions because we could include interactive activities that help kids with ADHD focus and improve attention, as well as tools for teachers to tailor the activities to individual children's needs.
 
-## Reference: 
+## References: 
 
 * Miaskiewicz, T., & Kozar, K. A. (2011). Personas and user-centered design: How can personas benefit product design processes?. Design studies, 32(5), 417-430.
 * Marshall, R., Cook, S., Mitchell, V., Summerskill, S., Haines, V., Maguire, M., ... & Case, K. (2015). Design and evaluation: End users, user datasets and personas. Applied ergonomics, 46, 311-317.
