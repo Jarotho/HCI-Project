@@ -1,4 +1,4 @@
-#Ergonomics
+# Ergonomics
 
 Ergonomics is the scientific study of designing and arranging things people use so that the people and things interact most efficiently and safely. Is about studying the conditions of their work environment for the objective of creating a better harmony between humans and their work environment.  Human-Computer Interaction (HCI) is the study of how people interact with technology, HCI study the psychology related to a certain topic, then design a product based on that study with techniques and methods.
  
@@ -11,6 +11,7 @@ Thinking in how the work environment affects our users can be very useful, can e
 Finally, this method has a lot  pros, like giving a value added for the project just for considering more characteristics of the user. But the counter part of this, is that the researchers need more time and money to invest in recognizing these characteristics.
  
 Sources: 
+
 Álvarez, J. L. (2007). Ergonomía y psicosociología aplicada. Lex Nova. 
 
 https://books.google.es/books?hl=es&lr=&id=o6kLIwAFTvAC&oi=fnd&pg=PA17&dq=ergonom%C3%ADa+&ots=S3A48hjDyH&sig=x8YRCyRE_MOQiSnN2T1xroq0RrM#v=onepage&q=ergonom%C3%ADa&f=false 

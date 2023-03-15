@@ -1,4 +1,4 @@
-#Elicitation Methods
+# Elicitation Methods
 
 The interviews can be very useful on a project. Knowing how the users work, think and what they want can give a way to the project. Our team considered that the data collected from the interviews will be one of the major guides for our project. We decided to use structured interviews, the team concluded that the information that we want was closed and specific. We also consider that data collected from interviews can result in an artifact on a project in several ways. With that in mind we adapted the questions with the objective of knowing better how our users work. 
 

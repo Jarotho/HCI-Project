@@ -1,4 +1,4 @@
-#HCI & UX
+# HCI & UX
 
 HCI (Human-Computer Interaction) and UX (User Experience) are two related fields that are concerned with designing effective and user-friendly computer systems.
 
@@ -11,4 +11,5 @@ The specific difference is that HCI is a broader field that encompasses the stud
 A good example for this is that, in our project we considered interfaces with “good” colors, interfaces that can be acceptable for any person. A good general user experience. But applying HCI, we considered the patrons of persons that are not involved with the technology, we consider the psychology of people that is learning how to use an app.
 
 Sources: 
+
 Hassenzahl, M., & Tractinsky, N. (2006). User experience-a research agenda. Behaviour & information technology, 25(2), 91-97.
