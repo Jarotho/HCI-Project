@@ -1,4 +1,4 @@
-#Personas
+# Personas
 
 Creating Personas involves gathering information about the target audience and crafting fictional characters that represent typical users. To create effective Personas, it's important to gather a range of data about the target audience, including demographic information, behavioral patterns, motivations, etc. Every project has different Personas, the team of the project had to do an analysis of this information to conclude what characteristics of their users are really relevant. 
 
