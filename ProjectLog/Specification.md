@@ -31,13 +31,11 @@ A project that helps teachers support children with ADHD through the use of a we
 
 ### Relevance
 
-Here are some reasons why a proper education can be very important for children with ADHD:
+Here are some reasons why the right tool can be very important for teachers to help children with ADHD:
 
-1. Helps them learn life skills: Education can teach kids with ADHD valuable skills like organization, time management, and self-discipline. These skills are crucial for everyday life and can help kids with ADHD succeed both in school and as adults.
-2. Provide a structured environment: Children with ADHD may have a hard time concentrating and staying focused due to a lack of structure. The right education can provide a structured and organized environment that helps them stay focused and focused on schoolwork.
-3. Helps children develop social skills: ADHD can affect children's social skills, which can make it difficult to build positive relationships with their peers. The right education can provide opportunities for children with ADHD to learn social skills and improve their ability to interact with others.
-
-***In conclusion, proper education is essential to help children with ADHD reach their full potential. Similarly, it can provide a structured and organized environment that allows them to focus and learn valuable life skills, so it is essential that teachers have knowledge of the right tools to effectively help students.***
+1. Provides teacher resources and tools: The website can include a variety of teacher-specific resources and tools, such as activities and games that can help improve the concentration and attention of children with ADHD. Teachers can access these resources and use them to tailor their teaching to the needs of these children.
+2. Facilitates lesson planning: By having access to a variety of strategies and activities suitable for working with children with ADHD, the teacher can plan and design lessons that are effective and engaging for students with ADHD. This can help improve information retention and learning in the classroom.
+3. Helps improve teaching and teachers' ability to meet children's needs: The website can help teachers better understand the needs of children with ADHD and develop effective strategies to meet those needs in the classroom, which in turn will enable children to improve their academic and social success. All of this through the materials and activities provided on the site.
 
 ### Users
 
