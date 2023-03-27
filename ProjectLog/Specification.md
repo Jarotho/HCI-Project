@@ -27,9 +27,7 @@ Often, teachers may be unaware of appropriate activities to teach children with 
 
 ### Motivation
 
-According to specialists, Attention Deficit Hyperactivity Disorder (ADHD) affects one in 20 Yucatecan children. From experience close to us, we know that those who suffer from this disorder have difficulties maintaining attention, as well as controlling their impulsive behavior, and this in turn can cause serious academic, emotional and social problems.
-
-It is also essential to mention that, often, teachers may not know about the optimal activities for teaching children with ADHD. This is because teacher training in this field may be limited, and many educators may not be aware of the latest research and strategies to address the needs of these students. As a result, it can be difficult for teachers to tailor their teaching methods to the individual needs of children with ADHD and provide them with appropriate support in the classroom.
+A project that helps teachers support children with ADHD through the use of a website could be very beneficial. This would allow teachers to provide personalized support to children with ADHD, helping them improve their academic performance and self-esteem. In addition, a project of this type could promote inclusion and equal opportunities for children with ADHD. By providing teachers with specific tools to help these children, you give them the opportunity to succeed academically and personally, and help them reach their full potential. Therefore, we believe that a project of this nature could have a significant impact on the lives of children with ADHD and their families, as well as on society in general.
 
 ### Relevance
 
