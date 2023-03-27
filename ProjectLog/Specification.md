@@ -23,8 +23,7 @@ ADHD (Attention Deficit Hyperactivity Disorder) is a major problem in children's
 
 ### Problematic
 
-Often, teachers may be unaware of the optimal activities for teaching children with ADHD. This is because teacher training in this field may be limited, and many educators may not be aware of the latest research and strategies to address the needs of these students. As a result, it can be difficult for teachers to tailor their teaching methods to the individual needs of children with ADHD and provide them with appropriate support in the classroom.
-In a few words, the problem is the lack of information and knowledge of how to work with students with ADHD so that they can perform optimally.
+Often, teachers may be unaware of appropriate activities to teach children with ADHD. This is because teacher training in this area may be limited, and many educators may not be aware of the latest research and strategies for addressing the needs of these students. As a result, it can be difficult for teachers to adapt their teaching methods to the individual needs of children with ADHD and to provide them with appropriate support in the classroom. Simply put, the problem is a lack of information and knowledge about how to work with students with ADHD so that they can perform appropriately.
 
 ### Motivation
 
