@@ -14,3 +14,15 @@ We ensure that every detail is carefully considered, from navigation to informat
 
 
 Every detail has been carefully considered, from the navigation to the organization of information and the visual hierarchy. We have worked hard to ensure that teachers who have a student with ADHD can navigate and use the website easily and effectively.
+
+
+# Basic prototype
+
+We have developed the first basic sketches of the prototypes for the ADHD project, according to the wireframes, requirements and personas that were obtained during the research phase. We have worked closely with our team to ensure that the basic sketches accurately reflect the needs and expectations of ADHD users.
+
+The basic sketches of the prototypes are based on wireframes and represent the first iterations of the design. We have used user-centered design techniques to ensure that the prototypes are intuitive, easy to use, and accessible to people with ADHD.
+
+https://www.figma.com/file/xUC4zSps0FPuGmJtnELoEo/Untitled?node-id=0%3A1&t=MglkSAHBCEdGvGtx-1
+
+
+Analyzing in detail the personas we were able to reach a particular solution, teachers are familiar in doing their work in the "office package" so our design is familiar in the structure that have these, each of the elements represents a part of the structure of "office package". 
