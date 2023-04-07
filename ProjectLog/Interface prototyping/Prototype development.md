@@ -25,4 +25,15 @@ The basic sketches of the prototypes are based on wireframes and represent the f
 https://www.figma.com/file/xUC4zSps0FPuGmJtnELoEo/Untitled?node-id=0%3A1&t=MglkSAHBCEdGvGtx-1
 
 
+
+
+# Explanation
 Analyzing in detail the personas we were able to reach a particular solution, teachers are familiar in doing their work in the "office package" so our design is familiar in the structure that have these, each of the elements represents a part of the structure of "office package". 
+
+
+# Tools
+
+Tools used:
+- Figma
+- ChatGpt
+- Html.to.design
