@@ -30,6 +30,14 @@ https://www.figma.com/file/xUC4zSps0FPuGmJtnELoEo/Untitled?node-id=0%3A1&t=MglkS
 # Explanation
 Analyzing in detail the personas we were able to reach a particular solution, teachers are familiar in doing their work in the "office package" so our design is familiar in the structure that have these, each of the elements represents a part of the structure of "office package". 
 
+# DESIGN GUIDE
+The design guide was elaborated by the team with the help of some books, where the color used, the fonts and their size are specified. The guide is inside the Figma with the prototypes. https://www.figma.com/file/xUC4zSps0FPuGmJtnELoEo/Untitled?node-id=0%3A1&t=MglkSAHBCEdGvGtx-1
+
+REFERENCES
+
+https://bedford-computing.co.uk/learning/wp-content/uploads/2016/07/Livro-Designing-Interfaces-2nd-Edition-2010.pdf
+
+http://www.nicolasespinoza.cl/wp-content/uploads/2018/04/Matthew-J.-Hamm-Wireframing-Essentials.-An-introduction-to-user-experience-design-2014.pdf
 
 # Tools
 
