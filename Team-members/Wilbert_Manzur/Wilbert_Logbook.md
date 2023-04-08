@@ -14,3 +14,7 @@
 | **7**  | Third meeting                                              | February 27   | February 27  | Advances                                         |
 | **8**  | DCU                                               | February 25   | February 26  | Description of the DCU process         |
 | **9**  | First delivery                                             | February 27   | February 27  | The objective, users, elements of innovation, motivation and relevance of the project were drafted |
+| **10**  | Fourth meeting                                               | March 6   | March 6  | Advances        |
+| **11**  | Errors were analyzed                                               | March 14   | March 16  | After the teacher's feedback, the points to be improved were analyzed. |
+| **12**  | DCU                                               | March 19   | March 24  | corrections were made to the problem, motivation, relevance, objective and innovation.|
+| **13**  | Fifth meeting                                               | March 27   | March 27  | Advances        |
