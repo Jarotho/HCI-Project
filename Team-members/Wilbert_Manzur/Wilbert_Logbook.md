@@ -24,8 +24,8 @@
 | **13**  | Wireframe research                                              | March 17   | March 21  | Research was conducted on the wireframe concept.  |
 | **14**  | Wireframe                                               | March 23   | March 26  | Wireframes of the requirements were made.  |
 | **15**  | Fifth meeting                                               | March 27   | March 27  | Advances        |
-| **16**  | prototype research                                             | April 28  | April 1  | a research of the concept of the prototypes was made.  |
-| **17**  | figma research with the ia                                         | April 2   | April 2  |research was done on the plugins needed to use figma with AI. |
-| **18**  | prototype                                              | April 3   | April 5  | wireframe prototypes were made.|
+| **16**  | Prototype research                                             | April 28  | April 1  | a research of the concept of the prototypes was made.  |
+| **17**  | Figma research with the ia                                         | April 2   | April 2  |research was done on the plugins needed to use figma with AI. |
+| **18**  | Prototype                                              | April 3   | April 5  | wireframe prototypes were made.|
 | **19**  | Design guide                                              | April 5   | April 6  | the design guide was made with the colors and font to be used, as well as the size.|
 | **20**  | Second delivery                                               | April 7   | April 7  | adjustments are made and deliverables reviewed|
