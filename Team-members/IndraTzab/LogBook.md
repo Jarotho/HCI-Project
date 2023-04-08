@@ -21,14 +21,11 @@
 
 | Activity                                               | Status      | Resulting artifact                                       |
 | :----------------------------------------------------- | :---------:| :------------------------------------------------------ |
-| Teacher feedback and bug review                             | Done| Ideas to improve project development                 |
 | Detailed research on requirements              | Done| Plan to document and develop high quality requirements for the project                  |
 |Analysis of the functional and non-functional requirements that we already have | Done | Changes to requirements                                                       |
 | Investigation of user needs for the web application                                 | Done   | Functional requirements justification document|
 | Research and documentation of the use cases for the project       | Done | Use Case Document            |
 | Research and documentation on requirements traceability                             | Done| Requirements traceability document, traceability matrix                                                |
 | Research and documentation on inspection methods  | Done | Inspection methods document, heuristic format and error format         |
-| fourth meeting                                         | Done | Paper interface design                                                |
-| Usability testing research and documentation                                     | Done| Usability test document for non-functional reliability requirement  |
-| Fifth meeting                                         | Done | Review of all documentation carried out                                              |
-
+| Fourth meeting                                         | Done | Paper interface design                                                |
+| Usability testing research and documentation                                     | Done| Usability test document for non-functional reliability requirement RNF008 |
