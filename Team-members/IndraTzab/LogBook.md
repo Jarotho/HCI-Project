@@ -1,15 +1,10 @@
-# Project
+# Individual organization
 
-* [FORMS: Interview](https://forms.office.com/r/ST6wYKzktw)
+## Activities schedule
 
+## First Delivery
 
-#  Bitacora
-
-
-## Schedule
-##  Individual organization
-
-| Activity                                               | Date       | Results Obtained                                         |
+| Activity                                               | Date       | Resulting artifact                                       |
 | :----------------------------------------------------- | :---------:| :------------------------------------------------------ |
 | Project ideas definition                               | January 18/January 25| Project ideas presentation                    |
 | Idea selection and deeper definition                   | January 23/January 28| Project definition                      |
@@ -20,4 +15,20 @@
 | Second meeting                                         | February 13| Advances                                                |
 | Interview analysis                                     | February 13| Analysis and summary of the results of the interview    |
 | Third meeting                                          | February 27| Advances                                                |
+
+
+## Second Delivery
+
+| Activity                                               | Status      | Resulting artifact                                       |
+| :----------------------------------------------------- | :---------:| :------------------------------------------------------ |
+| Teacher feedback and bug review                             | Done| Ideas to improve project development                 |
+| Detailed research on requirements              | Done| Plan to document and develop high quality requirements for the project                  |
+|Analysis of the functional and non-functional requirements that we already have | Done | Changes to requirements                                                       |
+| Investigation of user needs for the web application                                 | Done   | Functional requirements justification document|
+| Research and documentation of the use cases for the project       | Done | Use Case Document            |
+| Research and documentation on requirements traceability                             | Done| Requirements traceability document, traceability matrix                                                |
+| Research and documentation on inspection methods  | Done | Inspection methods document, heuristic format and error format         |
+| fourth meeting                                         | Done | Paper interface design                                                |
+| Usability testing research and documentation                                     | Done| Usability test document for non-functional reliability requirement  |
+| Fifth meeting                                         | Done | Review of all documentation carried out                                              |
 
