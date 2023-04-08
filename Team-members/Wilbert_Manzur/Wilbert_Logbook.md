@@ -15,6 +15,13 @@
 | **8**  | DCU                                               | February 25   | February 26  | Description of the DCU process         |
 | **9**  | First delivery                                             | February 27   | February 27  | The objective, users, elements of innovation, motivation and relevance of the project were drafted |
 | **10**  | Fourth meeting                                               | March 6   | March 6  | Advances        |
-| **11**  | Errors were analyzed                                               | March 14   | March 16  | After the teacher's feedback, the points to be improved were analyzed. |
-| **12**  | DCU                                               | March 19   | March 24  | corrections were made to the problem, motivation, relevance, objective and innovation.|
-| **13**  | Fifth meeting                                               | March 27   | March 27  | Advances        |
+| **11**  | Errors were analyzed                                               | March 8   | March 14  | After the teacher's feedback, the points to be improved were analyzed. |
+| **12**  | Corrections                                               | March 16   | March 22  | Corrections were made to the problem, motivation, relevance, objective and innovation.|
+| **13**  | Wireframe research                                              | March 28   | March 29  | Research was conducted on the wireframe concept.  |
+| **14**  | Fifth meeting                                               | March 27   | March 27  | Advances        |
+| **15**  | Wireframe                                               | March 29   | April 1  | Wireframes of the requirements were made.  |
+| **16**  | figma research with the ia                                         | April 2   | April 2  |research was done on the plugins needed to use figma with AI. |
+| **17**  | prototype research                                             | April 2   | April 2  | a research of the concept of the prototypes was made.  |
+| **18**  | prototype                                              | April 3   | April 5  | wireframe prototypes were made.|
+| **19**  | Design guide                                              | April 5   | April 6  | the design guide was made with the colors and font to be used, as well as the size.|
+| **20**  | Second delivery                                               | April 7   | April 7  | adjustments are made and deliverables reviewed|
