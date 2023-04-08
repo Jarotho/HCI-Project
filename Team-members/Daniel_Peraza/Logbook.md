@@ -16,7 +16,7 @@
 | Third meeting                                          | February 27| Advances                                                |
 | First delivery                                         | February 27| Definition and writing of the objective, users, elements of innovation, motivation and relevance of the project|
 | Fourth meeting                                               | March 06| Advances|
-| Correction                                        | March 16| First installment bug fix                                               |
+| Corrections                                        | March 16| Corrections were made to the problem, motivation, relevance, objective and innovation.  |
 | Fifth meeting                                    | March 27| Advances    |
 | Requirements                                         | March 30| Creation of new requirements                             |
 | Research and documentation on inspection methods                   | April 2| Inspection methods document, heuristic format and error format|
