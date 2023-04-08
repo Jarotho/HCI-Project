@@ -8,15 +8,16 @@ Also, with this tool we create a flow for the functional requirements, this with
 
 This is the Typography and the flow of our project.
 
-![image](https://drive.google.com/file/d/1TpX3cMLvEYQ27PW2OikbgPfBIxUE_ocE/view?usp=sharing)
+![Flow](https://user-images.githubusercontent.com/56356015/230699525-3d614520-4031-470e-9b7a-8e62bbce2daa.png)
 
-# References 
+## References 
 
 Agoston, G. A. (2013). Color theory and its application in art and design (Vol. 19). Springer.
 
 Kondratova, I., & Goldfarb, I. (2007). Color your website: use of colors on the web. Lecture Notes in Computer Science, 4560, 123.
 
 
-# Tools
+## Tools
 Figma
+
 ChatGPT
