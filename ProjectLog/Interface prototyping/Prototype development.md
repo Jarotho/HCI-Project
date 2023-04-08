@@ -33,6 +33,12 @@ Analyzing in detail the personas we were able to reach a particular solution, te
 # DESIGN GUIDE
 The design guide was elaborated by the team with the help of some books, where the color used, the fonts and their size are specified. The guide is inside the Figma with the prototypes. https://www.figma.com/file/xUC4zSps0FPuGmJtnELoEo/Untitled?node-id=0%3A1&t=MglkSAHBCEdGvGtx-1
 
+# Figma-IA
+The design of the interfaces was made with the help of figma and Chat GPT, first, in Chat GPT you are asked to make the code of a log in in HTML and CSS with the corresponding parameters.
+Then, in figma with the code.to.design plugin, we pass the code provided before from Chat GPT and automatically you get the log in view. 
+An example is shown in the following video.
+https://1drv.ms/v/s!AheO7Oz5stcOwhlkn1e3CdE6nUEi
+
 REFERENCES
 
 https://bedford-computing.co.uk/learning/wp-content/uploads/2016/07/Livro-Designing-Interfaces-2nd-Edition-2010.pdf
