@@ -21,7 +21,7 @@
 | Requirements                                         | March 30| Creation of new requirements                             |
 | Research and documentation on inspection methods                   | April 2| Inspection methods document, heuristic format and error format|
 | Requirements                                    | April 4| Modification of requirements    |
-| Video | April 4| Contribution in the script of the video of the second installment  |
 | Requirements                                    | April 5| Drafting of the changes made in the requirements of the first delivery    |
 | Usability testing research and documentation                   | April 5| Usability test document for non-functional scalability requirement   |
+| Video | April 7| Contribution in the script of the video of the second installment  |
 
