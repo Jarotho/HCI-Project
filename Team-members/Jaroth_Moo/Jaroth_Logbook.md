@@ -15,3 +15,17 @@
 | Interview draft                                    | February 17| Creation of the draft of the interview   |
 | Personas                                    | February 25| Creation of personas                                                |
 | scenaries                                      | February 26| Creation of the escenarios for the personas                                             |
+| Researching | March 3/ March 6 | Research and analysis to determinate the technology |
+| Analysis on requirements | March 10  | Analysis of the non functional requirements to generate a new requirement |
+| Research | March 15 | Techniques for teachers to work with the ADHD |
+| Research | March 17 | What we need to create prototypes and the way we need to do it |
+| Research and analysis | March 20/ March 25 | Usability tests and what they need |
+| Analysis on requirements | March 23/ March 28 | Creation of new non functional requirements |
+| Research | March 27 | Investigation for new ways to implement differents activities for children with ADHD |
+| Requirements| March 27 | Implementation of the analysis to generate, modificate and delete non functional requirements |
+| Requirements | March 30 | New Analysis and creation of new requirements |
+| Requirements | April 4 | Modification of requirements |
+| Usability tests | April 4 | Creation of a template for usability tests |
+| Requirements | April 5 | Justification for non functional requirements |
+| Usability tests | April 6 | Creation of a sketch of usability tests for RNF002 and RNF005 |
+| Video | April 1/April 7 | Guionization, creation, edit and upload the video for second delivery |
