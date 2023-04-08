@@ -1,2 +1,2 @@
 - [Video 1st delivery](https://alumnosuady.sharepoint.com/:v:/s/HCI191/EdGDGAiApolEnPkmL4MXqlEBCDdAHE-wzDIBfzl0ua2KjA?e=sKIocz)
-- [Video 2nd delivery](https://youtu.be/KB5UrSb3LxM)
+- [Video 2nd delivery]([https://youtu.be/KB5UrSb3LxM](https://drive.google.com/file/d/134XvNJVJ3dyrAz3tC9IhS4Vgcwe1WBxY/view?usp=share_link))
