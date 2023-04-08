@@ -29,3 +29,4 @@
 | Research and documentation on inspection methods  | Done | Inspection methods document, heuristic format and error format         |
 | Fourth meeting                                         | Done | Paper interface design                                                |
 | Usability testing research and documentation                                     | Done| Usability test document for non-functional reliability requirement RNF008 |
+|Fifth meeting                                   | Done   | Last revision of the documentation carried out for the second delivery|
