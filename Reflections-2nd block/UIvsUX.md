@@ -1,4 +1,4 @@
-# UI VS UX 
+# UI VS UX 🖥
 
 It is very common that people do not know the difference and think that they are the same, however, thanks to the article, you can see that UI and UX are different but related concepts in digital product design. First, UI (User Interface) refers to the appearance and interaction of the user interface elements, while UX (User Experience) focuses on how users interact with the product and how they feel while doing so. Going into more detail, the distinctive definition of UX in web development and design is "The cultivation of customer satisfaction and loyalty through the optimal development of usability and the positive emotional response a visitor experiences with your site" (Aileen. J).
 
