@@ -9,3 +9,7 @@ Regarding our project, we try to generate a good user experience for teachers th
 Regarding the user interface of our project, we sought to incorporate visual elements that are familiar to our users and allow them to navigate the web page more easily. To this end, inspiration was taken from the "Microsoft Office" interface, using elements such as the toolbar and the shape of the buttons, which are common to most of the applications in this suite. Users' familiarity with these elements is expected to facilitate navigation and use of our website, making it more intuitive for them.
 
 To conclude, it is important to mention that a close collaboration between UX and UI can improve the user experience and brand image, which translates into a competitive advantage for companies. By focusing on the user and the user experience, companies can increase customer satisfaction and loyalty, which can lead to significant growth in the long run.
+
+         REFERENCES 
+         
+         https://wpmudev.com/blog/ux-ui-wordpress/?locale=es-es
