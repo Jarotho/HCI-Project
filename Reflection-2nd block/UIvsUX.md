@@ -1,4 +1,4 @@
-# UI VS UX
+# :large_blue_diamond: UI VS UX :large_blue_diamond:
 
 Without a doubt, the UX (User Experience) and the UI (User Interface) are two fundamental terms in the design of digital products, since both aspects are critical for user satisfaction and the success of a product.
 
