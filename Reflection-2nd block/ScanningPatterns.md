@@ -1,4 +1,4 @@
-# ScanningPatterns
+# ScanningPatterns :eyes:
 
 Nowadays, most of the information is found online and web pages are an essential tool to present it. For this reason, it is crucial that web designers understand how users interact with information online and how web pages are presented. In this regard, the research "Text Scanning Patterns: Eye Tracking Evidence" has identified four main text scanning patterns, namely the F pattern, the spotted pattern, the layer cake pattern, and the compromise pattern. . These patterns are of great importance to web page designers, since they allow them to understand how users read and scan the information on a web page; In this way, designers can create web pages that present information in an effective and attractive way for users, thus increasing the usability and effectiveness of web pages.
 
