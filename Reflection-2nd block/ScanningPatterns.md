@@ -10,4 +10,4 @@ In conclusion, the text scanning patterns identified in the research are essenti
 
         REFERENCES 
 
-                 Nielsen, J., & Pernice, K. (2010). Text scanning patterns: Eyetracking evidence. Nielsen Norman Group. Recuperado de [https://www.nngroup.com/articles/text-scanning-patterns/](https://www.nngroup.com/articles/text-scanning-patterns-eyetracking/?locale=es-mx)
+        Nielsen, J., & Pernice, K. (2010). Text scanning patterns: Eyetracking evidence. Nielsen Norman Group. Recuperado de [https://www.nngroup.com/articles/text-scanning-patterns/](https://www.nngroup.com/articles/text-scanning-patterns-eyetracking/?locale=es-mx)
