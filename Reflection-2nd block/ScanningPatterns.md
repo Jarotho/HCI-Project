@@ -1,6 +1,18 @@
 # Scanning Patterns
 
+When users visit a webpage, they don't read everything on the page word-for-word. Instead, they tend to scan the content quickly, looking for specific information or visual cues that are relevant to their needs. Different scanning patterns have been identified in this article, including the F-pattern, spotted pattern, layer-cake pattern, and commitment pattern.
+
+Briefly, The F-pattern describes how users typically scan content on a webpage in an "F" shape. They first read horizontally across the top of the page, then move down the page a bit and read horizontally again. The spotted pattern, on the other hand, is more common on pages with visual elements like images or infographics. Users scan the page quickly, stopping at visually interesting elements that catch their attention, usually different styled text. The layer-cake pattern is a bit different from the other two patterns, is about fixations placed mostly on the page’s headings and subheadings. This pattern is often seen on pages that have a lot of content organized into sections or tabs, is one of the most effective ways in which users can scan pages. Finally, the commitment pattern is a bit like the F-pattern, but with a greater emphasis on reading down the page in a vertical line. This pattern is often seen on pages with a lot of text, where users are trying to quickly find specific and trusted information. 
+
+The scanning pattern that users employ will depend on the specific page they're visiting, as well as their own individual preferences and needs. As a result, it's important for website designers to take into account these various scanning patterns when designing their pages, in order to ensure that users are able to quickly and easily find the information they need.
+When our team designed the basic prototype of the project web page, we just tried to build something easy to understand and with the content well grouped. However, while trying to design something compacted and easy to navigate in, we indirectly fall on the description of one scanning pattern. 
+
+The goal of our project is build a webpage so the users (professors) can easy find the information that they want. Designing a site like this is putting the information in specific sections, so the professors can spot what they want in the least time possible. This is similar to “fixations placed on page’s headings and subheadings”, is the description of the layer-cake pattern. Our UI is constructed with certain tabs (sections), it has a principal header which facilitates the flow. When selecting an option of this tab, the information of it displays in the middle-down of the page, with other subsections (depends on the selected option). We can clearly see the similitudes of this two, the objective of structuring a lot of information with “titles and subtitles” of our project will make the users follow the layer-cake pattern. 
+
+Although we would like our users to read all or most of the information, we know that this will be difficult to achieve, we assume that they will spend as little time as possible in the web application. One of our main non-functional usability requirements is to make the system easy to use, because we understand the needs of our users. If we only thought about our ideals, we would do something that falls into the commitment pattern, but when creating and analyzing our Personas, we conclude that doing something that follows the cake pattern is the best. It is relevant to consider this last pattern, since the needs of our users will tend to follow this one.
+
 
 
 ### Sources: 
-https://wpmudev.com/blog/ux-ui-wordpress/?locale=es-es
+https://www.nngroup.com/articles/text-scanning-patterns-eyetracking/?locale=es-es
+
