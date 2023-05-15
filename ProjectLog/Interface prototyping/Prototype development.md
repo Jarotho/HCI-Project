@@ -24,7 +24,7 @@ The basic sketches of the prototypes are based on wireframes and represent the f
 
 https://www.figma.com/file/xUC4zSps0FPuGmJtnELoEo/Untitled?node-id=0%3A1&t=MglkSAHBCEdGvGtx-1
 
-
+https://www.figma.com/proto/mK3fVvBYVRxXWR4QU2LVPa/Untitled?type=design&node-id=11-440&scaling=scale-down&page-id=0%3A1&starting-point-node-id=11%3A356
 
 
 # Explanation
