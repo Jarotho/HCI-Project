@@ -1,1 +1,13 @@
+# DCU Summary
 
+The User-Centered Design Methodology was applied to the development of a website designed to help teachers support children with Attention Deficit Hyperactivity Disorder (ADHD). In the initial research phase, extensive research was conducted on ADHD in children and how it affects their learning. Information was gathered through multiple sources, such as theses, books, testimonials, and user surveys, with the goal of gaining a thorough understanding of teachers' needs and desires regarding the experience of dealing with children with ADHD.
+
+The results of this phase provided the team with the knowledge needed to approach the design of the website, identifying the challenges teachers face and the features they would like to have in order to better support children with ADHD. This provided a solid foundation for product development.
+
+In the requirements analysis phase, key requirements for the website were identified. These included the need to provide tailored teaching strategies for children with ADHD, specific educational resources, time and attention management tools, as well as accessibility features. The team compiled and synthesized the information obtained during the research to clearly define the objectives and functionalities needed for the product.
+
+Next, in the conceptual design phase, the team used the research data and analysis to prototype the website. Emphasis was placed on designing a user-friendly and customizable user interface, with the goal of providing teachers and children with an intuitive experience tailored to their needs. Consideration was given to the efficient organization of content, the implementation of interactive features that would encourage children's participation, and the integration of resources and tools that would support teachers in their work.
+
+In the detailed design phase, a more complete and detailed design of the web page was developed. The navigation structure was defined, content sections were established, appropriate typography was selected, colors were determined and other visual elements were incorporated. In addition, interactive prototypes were created that allowed teachers and potential users to evaluate and provide feedback on the usability and effectiveness of the design. Iterations and adjustments were made in this phase to ensure the best possible user experience.
+
+Finally, in the evaluation phase, usability testing was conducted with teachers to assess the user experience and gather feedback on the effectiveness of the features and tools designed to support children with ADHD. Teachers provided feedback on the ease of use, customization, and efficiency of the application.
