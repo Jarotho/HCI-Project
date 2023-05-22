@@ -1,4 +1,4 @@
-# DCU Summary
+## DCU Summary
 
 The User-Centered Design Methodology was applied to the development of a website designed to help teachers support children with Attention Deficit Hyperactivity Disorder (ADHD). In the initial research phase, extensive research was conducted on ADHD in children and how it affects their learning. Information was gathered through multiple sources, such as theses, books, testimonials, and user surveys, with the goal of gaining a thorough understanding of teachers' needs and desires regarding the experience of dealing with children with ADHD.
 
