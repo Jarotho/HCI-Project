@@ -29,3 +29,19 @@
 | Fourth meeting                                         | Done | Paper interface design                                                |
 | Usability testing research and documentation                                     | Done| Usability test document for non-functional reliability requirement RNF008 |
 |Fifth meeting                                   | Done   | Last revision of the documentation carried out for the second delivery|
+
+
+
+
+## Third delivery
+
+| Activity                                               | Status | Update                                                        |
+|--------------------------------------------------------|--------|---------------------------------------------------------------|
+| Updated usability test sketches                         | Done   | Updated usability test sketches                               |
+| Script for the third release                            | Done   | Script for the third release                                  |
+| Support provided to Daniel during usability testing     | Done   | Support provided to Daniel during usability testing           |
+| Correction of prototypes                                | Done   | Corrected prototypes                                          |
+| Minutes and notes of meetings with teacher              | Done   | Minutes and notes of meetings with teacher                     |
+| Video                                                  | Done   | Video related to project                                      |
+| Fifth meeting                                          | Done   | Last revision of documentation done for second deliverable    |
+
