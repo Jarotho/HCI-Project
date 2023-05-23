@@ -45,4 +45,5 @@
 | Usability test  | May 19 | Implementation of usability test |
 | Analysis | May 20 | Analysis on our project |
 | Reflection | May 20 | Redact a resume of learned lessons |
+| Video | May 20 | Contribution with an audio |
 | Data | May 22 | Put the data of usability test of RNF009 |
