@@ -29,3 +29,16 @@
 | **18**  | Prototype                                              | April 3   | April 5  | wireframe prototypes were made.|
 | **19**  | Design guide                                              | April 5   | April 6  | the design guide was made with the colors and font to be used, as well as the size.|
 | **20**  | Second delivery                                               | April 7   | April 7  | adjustments are made and deliverables reviewed|
+
+##  Third delivery
+|   #    | Activity                                               | Start date       |  End date       | Results                                     |
+| :----: | :----------------------------------------------------- | :---------:      | :---------:     | :------------------------------------------------------ |
+| **21**  | Sixth meeting                                          | April 17   | April 17   | Advances        |
+| **22**  | Seventh meeting                                              | April 24   | April 24   | Advances. |
+| **23**  | Updated usability test sketches                                     | April 28   | may 3  | Updated usability test sketches|
+| **24**  | Correction of prototypes                                             | May 6   | May 12  | improved protypes |
+| **25**  | DCU summary                                            | May 13  | May 14 | DCU summary |
+| **26**  | presentation of the design stages                                            | May 16  | May 17 | presentation of the design stages |
+| **27**  | Support provided to Daniel during usability testing                                               | May 18   | May 19  | Support provided to Daniel during usability testing  |
+| **28**  | Video                                             | May 19   | May 21  | Final videos        |
+
