@@ -29,3 +29,20 @@
 | Requirements | April 5 | Justification for non functional requirements |
 | Usability tests | April 6 | Creation of a sketch of usability tests for RNF002 and RNF005 |
 | Video | April 1/April 7 | Guionization, creation, edit and upload the video for second delivery |
+|  Investigation | April 15 | Research about Prorotypes and usability tests |
+| Investigation | April 20 | Research about usability tests |
+|  Investigation | April 24 | Research about implementation of usability tests |
+| Analysis | April 24 | Analysis on prototypes |
+| Research and investigation | April 30 | Templates for usability test |
+| Research | May 5 | Tools for usability tests |
+| Research | May 8 | Creation of material for usability tests |
+| Analysis | May 10 | Analysis on the outlines of usability tests |
+| Creation | May 10 | Creation of a template for usability tests |
+| Usability test | May 10 | development of usability test |
+| Recruitment | May 13 | Recruit teachers for usability tests |
+| Creation | May 14 | Creation of a materials for usability test |
+| Recruitment | May 15 | Select a day and a hour to make the usability test |
+| Usability test  | May 19 | Implementation of usability test |
+| Analysis | May 20 | Analysis on our project |
+| Reflection | May 20 | Redact a resume of learned lessons |
+| Data | May 22 | Put the data of usability test of RNF009 |
