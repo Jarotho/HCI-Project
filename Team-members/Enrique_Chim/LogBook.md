@@ -13,3 +13,19 @@
 | **6**  | User research                                          | February 07/23   | February 12/23  | User characteristics                                    |
 | **7**  | Second meeting                                         | February 13/23   | February 13/23  | Advances                                                |
 | **8**  | Interview                                              | February 13/23   | February 20/23  | Data collection                                         |
+
+
+## Second Delivery
+
+
+| Activity                                               | Status      | Resulting artifact                                       |
+| :----------------------------------------------------- | :---------:| :------------------------------------------------------ |
+| Third meeting                                          | Done| Plan to document and develop high quality requirements for the project                  |
+| Creation of wireframes               | Done| The first sketches of the prototype were made                  |
+|Analysis of the functional and non-functional requirements that we already have | Done | Changes to requirements                                                       |
+| Investigation of user needs for the web application                                 | Done   | Functional requirements justification document|
+| Prototype creation                             | Done| Prototype in figma application                                                |
+| Research and documentation on inspection methods  | Done | Inspection methods document, heuristic format and error format         |
+| Fourth meeting                                         | Done | Paper interface design                                                |
+| Usability testing research and documentation                                     | Done| Usability test document for non-functional reliability requirement RNF008 |
+|Fifth meeting                                   | Done   | Last revision of the documentation carried out for the second delivery|
