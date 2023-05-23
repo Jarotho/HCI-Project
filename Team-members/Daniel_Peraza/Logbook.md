@@ -27,3 +27,8 @@
 | Sixth meeting | April 17| Advances, prototype improvements  |
 | Seventh meeting | April 24 | Advances, usability testing definition  |
 | Usability research | May 5 | General usability research and user testing  |
+| Requirements | May 9 | Adding new non-functional requirements  |
+| Usability test | May 12 | Development of usability test RNF009  |
+| Creation of materials | May 15 | Creation of a materials for usability test RNF009  |
+| Usuability test | May 19 | Implementation of usability test  |
+| Video | May 21 | Contribution with an audio |
