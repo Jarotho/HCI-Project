@@ -23,5 +23,7 @@
 | Requirements                                    | April 4| Modification of requirements    |
 | Requirements                                    | April 5| Drafting of the changes made in the requirements of the first delivery    |
 | Usability testing research and documentation                   | April 5| Usability test document for non-functional scalability requirement   |
-| Video | April 7| Contribution in the script of the video of the second installment  |
-
+| Video Second delivery | April 7| Contribution in the script of the video of the second installment  |
+| Sixth meeting | April 17| Advances, prototype improvements  |
+| Seventh meeting | April 24 | Advances, usability testing definition  |
+| Usability research | May 5 | General usability research and user testing  |
